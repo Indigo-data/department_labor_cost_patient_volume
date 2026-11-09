@@ -1,0 +1,25 @@
+hospital_id,hospital_name,state,department_id,department_name,monthly_budget,target_labor_cost_per_encounter
+H001,Cedar Valley Medical Center,CA,D01,Emergency Department,553829,124
+H001,Cedar Valley Medical Center,CA,D02,Intensive Care Unit,591575,266
+H001,Cedar Valley Medical Center,CA,D03,Medical-Surgical,446219,131
+H001,Cedar Valley Medical Center,CA,D04,Radiology,258393,213
+H001,Cedar Valley Medical Center,CA,D05,Environmental Services,544342,161
+H001,Cedar Valley Medical Center,CA,D06,Patient Access,431847,131
+H002,Lone Star Regional Hospital,TX,D01,Emergency Department,240939,98
+H002,Lone Star Regional Hospital,TX,D02,Intensive Care Unit,528934,248
+H002,Lone Star Regional Hospital,TX,D03,Medical-Surgical,379464,199
+H002,Lone Star Regional Hospital,TX,D04,Radiology,633321,295
+H002,Lone Star Regional Hospital,TX,D05,Environmental Services,577432,86
+H002,Lone Star Regional Hospital,TX,D06,Patient Access,719020,256
+H003,Hudson North Medical Center,NY,D01,Emergency Department,339823,310
+H003,Hudson North Medical Center,NY,D02,Intensive Care Unit,405146,300
+H003,Hudson North Medical Center,NY,D03,Medical-Surgical,569684,289
+H003,Hudson North Medical Center,NY,D04,Radiology,672512,255
+H003,Hudson North Medical Center,NY,D05,Environmental Services,364789,152
+H003,Hudson North Medical Center,NY,D06,Patient Access,535123,243
+H004,Suncoast Community Hospital,FL,D01,Emergency Department,340287,200
+H004,Suncoast Community Hospital,FL,D02,Intensive Care Unit,332174,156
+H004,Suncoast Community Hospital,FL,D03,Medical-Surgical,656763,302
+H004,Suncoast Community Hospital,FL,D04,Radiology,405978,116
+H004,Suncoast Community Hospital,FL,D05,Environmental Services,272294,134
+H004,Suncoast Community Hospital,FL,D06,Patient Access,639926,285
